@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Duplicate File Handler (Go)/*
+!/Duplicate File Handler (Go)/task/
+/Duplicate File Handler (Go)/task/*
+!/Duplicate File Handler (Go)/task/main.go
